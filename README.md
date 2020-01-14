@@ -8,8 +8,6 @@ start at 14 Jan 2020
 
 [Nomad Coder 바닐라 JS로 크롬 앱 만들기](https://academy.nomadcoders.co/p/javascript-basics-for-absolute-beginners-kr)
 
----
-
 ## 기능
 
 1. 현재시간 불러오기
